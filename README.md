@@ -6,8 +6,8 @@
   <img src="https://github.com/StarLordBerke4/StarLordBerke4/blob/main/GIF/Hi.gif" />
 </h1>
 
-<h1 align="center">Merhaba 👋, Ben Furkan Efe Sevik</h1>
-<h3 align="center">Türkiye'de yaşayan gönüllü bir bilgisayar mühendisliği öğrencisi</h3>
+<h1 align="center">Merhaba 👋, Ben Efe Sevik</h1>
+<h3 align="center"> Gönüllü bir bilgisayar mühendisliği öğrencisi</h3>
 
 
 
